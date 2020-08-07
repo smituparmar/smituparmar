@@ -4,7 +4,7 @@
 </p>
 <img src='https://github-readme-stats.vercel.app/api?username=smituparmar&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff'/>
 
-Here are some ideas to get you started:
+I hope you all are doing fine in this corona(yuckkkk) time
 
 - 🔭 I’m currently working on my flutter skills
 - 🌱 I’m currently learning mobile app development
