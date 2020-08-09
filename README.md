@@ -3,7 +3,7 @@
 
 </p>
 <img src='https://github-readme-stats.vercel.app/api?username=smituparmar&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff'/>
-
+<imh src='https://github-readme-stats.vercel.app/api/top-langs/?username=smituparmar&theme=dark&hide_langs_below=1' />
 I hope you all are doing fine in this corona(yuckkkk) time
 
 - 🔭 I’m currently working on my flutter skills
