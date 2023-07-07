@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-I hope you all are doing fine in this corona(yuckkkk) time
-
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently Full Stack development
 - 💬 Ask me about Data Science terminologies
